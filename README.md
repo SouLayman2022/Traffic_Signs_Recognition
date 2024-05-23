@@ -1,5 +1,6 @@
 <div style="text-align:center; color:#FF0000; font-size:80px">
-# Traffic Signs Recognition</br>
+# Traffic Signs Recognition
+</br>
 
 <img src="./traffic_pic.jpeg" style="width:900px; height:auto">
 </div>
